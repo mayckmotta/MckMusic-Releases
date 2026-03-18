@@ -1,6 +1,6 @@
 {
-  "versionCode": 2,
-  "versionName": "2.1.7",
+  "versionCode": 3,
+  "versionName": "2.1.16",
   "downloadUrl": "https://github.com/mayckmotta/MckMusic-Releases/raw/refs/heads/main/lastupdate.apk",
-  "releaseNotes": "A grande atualização do Mck Music Service chegou!\n\n- Novo Painel Edge configurável\n- Modo Card responsivo\n- Atualizador Automático (OTA) integrado"
+  "releaseNotes": "A grande atualização do Mck Music Service chegou!\n\n- Novo Painel Edge configurável\n- Modo de temas mais responsivo\n- Novas melhorias na UI\n- Atualizador Automático (OTA) integrado"
 }
